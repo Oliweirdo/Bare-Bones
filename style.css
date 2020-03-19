@@ -84,6 +84,11 @@ img{
   height: auto;
   width: auto;
 }
+.back{
+  color: gray;
+}
+.questions{
+  color : grey;
 }
 /*
  * Cover
