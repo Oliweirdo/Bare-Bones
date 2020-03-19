@@ -15,40 +15,13 @@ a:hover {
   background-color: #fff;
   border: .05rem solid #fff;
 }
-.bd-placeholder-img {
-  font-size: 1.125rem;
-  text-anchor: middle;
-  -webkit-user-select: none;
-  -moz-user-select: none;
-  -ms-user-select: none;
-  user-select: none;
-}
 body{
     background-size: cover;
+    background-position-x: center;
     background-repeat: no-repeat;
 
 }
 
-@media (min-width: 768px) {
-  .bd-placeholder-img-lg {
-    font-size: 3.5rem;
-  }
-
-.mobile-first-component {
-  width: 100%;
-}
-
-@media screen and (min-width: 992px) {
-   .mobile-first-component {
-      width: 50%;
-   }
-}
-
-@media screen and (min-width: 1200px) {
-   .mobile-first-component {
-      width: 33%;
-   }
-}
 /*
  * Base structure
  */
@@ -69,6 +42,7 @@ body {
 
 .cover-container {
   max-width: 42em;
+   color :rgb(107, 105, 105); 
 }
 
 
@@ -105,13 +79,10 @@ body {
   border-bottom-color: #fff;
 }
 
-@media (min-width: 48em) {
-  .masthead-brand {
-    float: left;
-  }
-  .nav-masthead {
-    float: right;
-  }
+img{
+  max-width: 100%;
+  height: auto;
+  width: auto;
 }
 }
 /*
