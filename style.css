@@ -94,7 +94,7 @@ img{
 
 .small {
   max-width: 350px;
-  max-height: ;
+  max-height: 350px;
 }
 /*
  * Cover
@@ -119,12 +119,12 @@ img{
 /* Gallery Style*/
 div#quad { 
   background-color: #000; 
-  font-size: 0; width: 60%; 
+  font-size: 0; width: 50%; 
   margin: 0 auto;
   box-shadow: 0 0 12px rgba(0,0,0,0.8);
 }
 div#quad figure { 
-  margin: 0; width: 50%; 
+  margin: 0; width: 100%; 
   height: auto; transition: 1s; 
   display: inline-block; 
   position: relative; overflow: hidden; 
