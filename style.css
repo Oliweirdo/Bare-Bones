@@ -117,7 +117,7 @@ img{
 
 
 /* Gallery Style*/
-div#quad { 
+ div#quad { 
   background-color: #000; 
   font-size: 0; width: 50%; 
   margin: 0 auto;
@@ -143,4 +143,4 @@ div#quad figure figcaption {
 }
 .expanded { transform: scale(2); z-index: 5;  }
 div#quad figure.expanded figcaption { opacity: 1; }
-div.full figure:not(.expanded) { pointer-events: none; }
+div.full figure:not(.expanded) { pointer-events: none; } 
