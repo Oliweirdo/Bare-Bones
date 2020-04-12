@@ -89,6 +89,9 @@ img {
   color: grey;
 }
 
+.answer{
+  color:whitesmoke;
+}
 .small {
   max-width: 350px;
   max-height: 350px;
@@ -160,3 +163,4 @@ div#quad figure.expanded figcaption {
 div.full figure:not(.expanded) {
   pointer-events: none;
 }
+
