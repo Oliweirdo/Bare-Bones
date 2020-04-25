@@ -1,16 +1,16 @@
-/* Links */
+
 a,
 a:focus,
 a:hover {
   color: #fff;
 }
 
-/* Custom default button */
+
 .btn-secondary,
 .btn-secondary:hover,
 .btn-secondary:focus {
   color: #333;
-  text-shadow: none; /* Prevent inheritance from `body` */
+  text-shadow: none; 
   background-color: #fff;
   border: 0.05rem solid #fff;
 }
@@ -19,10 +19,6 @@ body {
   background-position-x: center;
   background-repeat: no-repeat;
 }
-
-/*
- * Base structure
- */
 
 html,
 body {
@@ -107,9 +103,7 @@ img {
   font-weight: 700;
 }
 
-/*
- * Footer
- */
+
 .mastfoot {
   color: rgba(255, 255, 255, 0.5);
 }
@@ -163,4 +157,3 @@ div#quad figure.expanded figcaption {
 div.full figure:not(.expanded) {
   pointer-events: none;
 }
-
