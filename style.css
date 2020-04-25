@@ -157,3 +157,23 @@ div#quad figure.expanded figcaption {
 div.full figure:not(.expanded) {
   pointer-events: none;
 }
+
+.leftside,
+.rightside {
+  height: 100%;
+  width: 100%;
+}
+.rightside{
+  padding:30px;
+}
+
+.questions{
+  cursor: pointer;
+}
+
+@media screen and (min-width: 750px) {
+  .leftside,
+  .rightside {
+    height: 100vh;
+  }
+}
