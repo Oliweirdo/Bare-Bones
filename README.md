@@ -17,4 +17,4 @@ Bootstrap<br>
 Vanilla JS
 
 #### TO DO: 
-and multi-language support 
+add multi-language support 
