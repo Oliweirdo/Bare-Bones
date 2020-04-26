@@ -13,7 +13,7 @@ have some FAQ for clients, and a quality gallery of all of works.
 At the moment I`ve used: <br>
 HTML<br>
 CSS<br>
-Bootstrap<br<br>
+Bootstrap<br>
 Vanilla JS
 
 #### TO DO: 
